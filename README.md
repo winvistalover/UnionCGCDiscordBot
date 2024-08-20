@@ -1,5 +1,9 @@
 # Union
 Another CGC bot based off of [the unofficial copilot discord bot](https://github.com/Discord-CopilotCo/bot)
+<br>
+> [!NOTE]
+> This discord bot is in WIP
+
 # How to use:
 
    - Make an application
