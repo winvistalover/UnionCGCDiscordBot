@@ -1,0 +1,2 @@
+# UnionCGCDiscordBot
+Another CGC bot
